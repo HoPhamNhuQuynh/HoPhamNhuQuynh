@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HoPhamNhuQuynh
 - 👀 I’m interested in going to somewhere that makes me better!
 - 🌱 I’m currently learning Coding with C++ and Python
-- 📫 How to reach me email quynhho2611@gmail.com
+- 📫 How to reach me email hpnquynh.261105@gmail.com
 - 😄 Pronouns: Queen
 - ⚡ Fun fact: I'm really fun and I love sleepping everytime hahahahhahh >_<
 
