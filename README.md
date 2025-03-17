@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HoPhamNhuQuynh
 - 👀 I’m interested in going to somewhere that makes me better!
-- 🌱 I’m currently learning Coding with C++ and Python
+- 🌱 I’m currently learning Coding with C++, C#, Java
 - 📫 How to reach me email hpnquynh.261105@gmail.com
-- 😄 Pronouns: Queen
+- 😄 Pronouns: Quin Quin
 - ⚡ Fun fact: I'm really fun and I love sleepping everytime hahahahhahh >_<
 
 <!---
